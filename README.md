@@ -11,10 +11,11 @@
 - 構成音は音楽理論どおりの綴り＋ドレミ＋度数（R, 3, 5…）、鍵盤表示
 - コード進行の作成・再生（BPM、ループ、王道進行などの定番進行）
 
-## URL で公開する（GitHub Pages）
-1. リポジトリの **Settings → Pages** を開く
-2. **Source: Deploy from a branch**、ブランチとフォルダ `/ (root)` を選んで Save
-3. 数分後に `https://<ユーザー名>.github.io/music-code/` で開けます
+## 公開 URL
+https://weakestandstrongest-sketch.github.io/music-code/
+
+GitHub Pages で公開しています（設定：Settings → Pages → Deploy from a branch → `claude/wizardly-meitner-5k0osk` / `(root)`）。
+このブランチに push すると数分で自動的に反映されます。
 
 ## クレジット
 ピアノ音源：Salamander Grand Piano V2（Alexander Holm, CC BY 3.0）。詳細は `samples/piano/LICENSE.txt`。
